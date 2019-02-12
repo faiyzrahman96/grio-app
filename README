@@ -1,0 +1,12 @@
+This README file highlights the technologies and methodologies I used in attempting to create the web application for this assignment.
+
+I developed the front-end using React.js in order to create components to render to HTML files using the 
+REACTDOM library, as well as a couple different libraries I installed through the use of npm. I implemented 
+bootstrap as well in the implementation of my front-end, most notably for FormControl, so that I could manage 
+my login form.
+
+My backend technology was created with Flask, which I attempted to connect to my frontend using RESTful APIs 
+and HTTP requests. The server would be run through python server.py, and different functions defined in the 
+server.py file were to serve for navigation in my web application.
+
+Logging in would often end up resulting in a ERROR 500 Internal Server Error where I'm assuming I redirected to an undefined app route, and due to a lack of time caused by a family emergency, I was unable to implement the counter's formula.

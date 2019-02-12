@@ -1,0 +1,14 @@
+.Counter {
+  background-color: white;
+  color: black;
+  width: 30%;
+  height: 30%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 5%;
+  padding: 10%;
+  flex-direction: row;
+}
+
+.
